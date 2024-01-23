@@ -1,2 +1,2 @@
 print("Hello")
-print("This is demo")
+print("This is line2")
